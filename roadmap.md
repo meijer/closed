@@ -24,8 +24,8 @@ cost estimates or have other roadmap suggestions, please either:
 
 
 ## Contents
-- [Roadmap responsibility and updates](#roadmap-responsibility-and-updates)
-- [Filesender Vision](#filesender-vision)
+- [Roadmap responsibility and updates](https://github.com/meijer/closed/blob/main/roadmap.md#roadmap-responsibility-and-updates)
+- [Filesender Vision](https://github.com/meijer/closed/blob/main/roadmap.md#filesender-vision)
 
 
 # Roadmap responsibility and updates
