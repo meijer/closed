@@ -160,6 +160,7 @@ The governance framework has highest priority, as without it no funds will be ra
 |---|---|---|
 |1| Governance (board work) | In-kind contribution |
 |2| Ensuring maintained code and a minimum of continuous improvements| € 20.000 |
+|2| External security audits and implementation of required fixes | € 25.000 (fixes only, audits in-kind) |
 
 
 ### Governance (board work)
@@ -177,17 +178,39 @@ The governance framework has highest priority, as without it no funds will be ra
 	- triage and implement small improvements
 	- triage and merge community contributions
 	- execution of the above in continuous open dialogue with the wider developer and deployment community
-- Budget:
-	- current level: proactive
-		- on scale from reactive-- to proactive++, indicating responsiveness to community dynamics
+	- this item is known as “System Improvements” in current MoUs with tech lead dr. Martin
+	- Based on historical data no extremely urgent issues have surfaced so far, hence no arrangement for rapid response to bugs has been needed, e.g. for the times the lead maintainer is on holiday.
+
+- Annual budget:
+	- current level: €20.000
+		- allows proactive response
+			- on scale from reactive-- to proactive++, indicating responsiveness to community dynamics
+		- proactive++ response requires an estimated €30.000 anually
+		- amount will increase as community activity increases, to support the resulting increase in community dynamics, requests etc.
+
+
+### External security audits to ensure we know the security state of the software, and implementation of fixes
+- Priority: 2
+- Description: 
+	- 
+	- at a minimum an annual external code security audit is conducted to ensure
+		- we know the security state of the softwar
+		- the software is not open to any obvious attacks
+		- new attack vectors are regularly taken in to account
+		- we can document the state of software security, supporting compliance processes at FileSender deployers
+	- ideally additional audits would be executed in the process of major code additions or changes
+- Annual budget: 
+
+Proposed annual budget: 
+€25K
+so far in-kind
+
+Audits: in-kind contribution by SURF of one annual security audit, timing not coordinated with project
 
 
 
-###
 
 
-operating FileSender’s decision making body
-governance process documentation to ensure the project can survive board members, key people and key organisations dropping out
 
 
 
