@@ -29,8 +29,13 @@ cost estimates or have other roadmap suggestions, please either:
 
 
 # Roadmap responsibility and updates
+As stated in the [FileSender Statutes](https://dracc.commonsconservancy.org/0017/ ), the FileSender Board is responsible for defining and maintaining this roadmap.
 
+The FileSender Board will update this roadmap regularly, consulting with the wider community. 
 
+If you want to propose a change or addition to the strategic roadmap, please:
+- submit an issue ticket to the [FileSender governance repository on Github](https://github.com/filesender/governance/issues)
+- label the issue with the “Strategic roadmap” label
 
 
 # FileSender Vision
@@ -147,6 +152,44 @@ There are two ways to achieve larger new developments of the roadmap:
 Experience shows larger items can be achieved using the first method, but with a long lead time. 
 
 # Roadmap and budget for healthy minimum level of activity
+The following activity is required to sustain FileSender as a usable, production-grade software product capable of sustaining a widely deployed installed base.
+
+The governance framework has highest priority, as without it no funds will be raised and none of the other activities can take place.
+
+| Priority | Work item | Annual Budget |
+|---|---|---|
+|1| Governance (board work) | In-kind contribution |
+|2| Ensuring maintained code and a minimum of continuous improvements| € 20.000 |
+
+
+### Governance (board work)
+- description
+	- operating FileSender’s decision making body
+	- maintain governance process documentation to ensure the project can survive board members, key people and key organisations dropping out
+- budget
+	- in kind contribution
+
+### Ensuring maintained code and a minimum of continuous improvements
+- priority: 2
+- description:
+	- continuous reactive basic software maintenance
+	- triage and address reported bugs, including urgent security issues
+	- triage and implement small improvements
+	- triage and merge community contributions
+	- execution of the above in continuous open dialogue with the wider developer and deployment community
+- Budget:
+	- current level: proactive
+		- on scale from reactive-- to proactive++, indicating responsiveness to community dynamics
+
+
+
+###
+
+
+operating FileSender’s decision making body
+governance process documentation to ensure the project can survive board members, key people and key organisations dropping out
+
+
 
 # Roadmap and budget for larger new developments
 
