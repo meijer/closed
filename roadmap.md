@@ -40,14 +40,14 @@ If you want to propose a change or addition to the strategic roadmap, please:
 
 # FileSender Vision
 
-*FileSender aims to be a *widely deployed* platform
- enabling *anyone* 
-to *easily and securely* transfer files of *any size*
-from *any person or machine* to *any person or machine*.
+FileSender aims to be a **widely deployed** platform
+ enabling **anyone** 
+to **easily and securely** transfer files of **any size**
+from **any person or machine** to **any person or machine**.
 
-*FileSender explicitly targets mass-usage and is built to service the 99% 
+**FileSender explicitly targets mass-usage and is built to service the 99% 
 of users who have better things to do with their time than figuring out 
-how to do large file transfer*
+how to do large file transfer**
 
 
 # FileSender governance and legal home
