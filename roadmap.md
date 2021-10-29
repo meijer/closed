@@ -219,45 +219,45 @@ HEAnet: ...
 
 
 ### Work item 3: External security audits
-- *Priority:* 2
-- *Description:* 
+- **Priority:** 2
+- **Description:** 
 	- at a minimum an annual external code security audit is conducted to ensure
 		- we know the security state of the softwar
 		- the software is not open to any obvious attacks
 		- new attack vectors are regularly taken in to account
 		- we can document the state of software security, supporting compliance processes at FileSender deployers
 	- ideally additional audits would be executed in the process of major code additions or changes
-- *Annual budget:* 
+- **Annual budget:** 
 	- € 25.000 for the security audit
 	- € x for required hours to manage the security audit effort (contract and interaction with security audit company)
 		- SURF currently provides an in-kind contribution of one annual security audit and the hours required for managing the effort.
 
 ### Work item 4: Capacity to fix security issues, especially after planned audits
-- Priority: 2
-- *Description:* 
+- **Priority:** 2
+- **Description:** 
 	- when executing a planned security audit, one also needs to plan for development capacity to fix the issues rapidly. This can take non-trivial amounts of effort when e.g. a new attack vector requires more than minor changes to protect against
 	- you don’t want to rely on hope to fix security issues discovered in a planned security audit, you plan for the ability to fix those
 	- urgent security issues discovered outside security audits are fixed as part of *Work item 1 - ensuring maintained code* system maintenance, assuming the long history of security audits means the fixes do not require a major (on par with feature development) effort
-- *Annual budget:*
+- **Annual budget:**
 	- €15.000 (2020 figure)
 
 ### Work item 5: A continuous minimum level of continued improvement
-- *Priority:* 3
-- *Description:*
+- **Priority:** 3
+- **Description:**
 	- many years of small improvements lead to big improvements
 	- evolution rather then revolution
 	- contributes to a thriving and living community
 - *Annual budget:*
 
 ### Work item 6: An up-to-date automated testing infrastructure
-- *Priority:* 3
+- **Priority:* 3
 	- Primary goal: product quality at acceptable cost. growing a large community requires a good product
 	- Secondary goal: enable a large deployed footprint with a scalable support cost: ensure the FileSender programme can maintain a large installed base with a minimum of support load
 	- Requires an automated testing environment with tests triggered on each commit
 	- Requires a battery of tests targeting both the system’s components and the user experience from multiple browsers and clients
 	- Tests need to be maintained and expanded as features change and are added
-- *Annual budget:* 
-- *Budget history:*
+- **Annual budget:** 
+- **Budget history:**
 	- 2022: €22.000 
 	- 2021: €11.000 (some work done in 2020)
 	- 2018: €3.750
