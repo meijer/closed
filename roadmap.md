@@ -151,10 +151,15 @@ There are two ways to achieve larger new developments of the roadmap:
 
 Experience shows larger items can be achieved using the first method, but with a long lead time. 
 
-# Roadmap and budget for healthy minimum level of activity
-The following activity is required to sustain FileSender as a usable, production-grade software product capable of sustaining a widely deployed installed base.
+
+# Continuous activity roadmap and budget for healthy minimum level of activity
+The activity described is required to sustain FileSender as a usable, production-grade software product capable of sustaining a widely deployed installed base.
 
 The governance framework has highest priority, as without it no funds will be raised and none of the other activities can take place.
+
+
+## Overview
+Priority is an indication of how long software can be a viable product if that particular work item would be starved of resources. 
 
 | Work item | Annual Budget | Priority |
 |---|---|---|
@@ -163,7 +168,29 @@ The governance framework has highest priority, as without it no funds will be ra
 | 3. External security audits | € 25.000 | 2 |
 | 4. Capacity to fix security issues, especially after planned audits | €15.000 | 2 |
 | 5. A continuous minimum level of continued improvement | €50.000 | 2 | 
-| 6: An up-to-date automated testing infrastructure | €25.000 | 3 |
+| 6. An up-to-date automated testing infrastructure | €25.000 | 3 |
+| 7. External crypto subsystem security audits | 3 | 
+| 8. Up-to-date documentation | € 10.000 | 4 |
+| 9. Up-to-date UI | € ?? | 5 |
+| 10. Community management | €10.000 | 6 |
+| 11. Public demonstrator | €?? What would it cost to run this? | 7 |
+| Total budget required to sustain FileSender as a good quality community developed software product |  | |
+
+## Budget plan
+How much we can look forward to receive as in-kind, how much money we need to collect, how much we can hope to count on from regular sponsors. This could also be in a separate document, but as first iteration it might be good to have it here, in your face.
+
+Total budget required: €
+In-kind contributions anticipated: €
+Cash needed: €
+
+Sponsorship anticipated (listed in order of size of contribution, manpower contribution counts more as it's harder to get)
+AARNet: ...
+SURF: ...
+HEAnet: ...
+
+
+
+## Work item descriptions
 
 ### Work item: Governance (board work)
 - description
@@ -238,7 +265,12 @@ The governance framework has highest priority, as without it no funds will be ra
 
 
 
-
+| 7. External crypto subsystem security audits | 3 | 
+| 8. Up-to-date documentation | € 10.000 | 4 |
+| 9. Up-to-date UI | € ?? | 5 |
+| 10. Community management | €10.000 | 6 |
+| 11. Public demonstrator | €?? What would it cost to run this? | 7 |
+| Total budget required to sustain FileSender as a good quality community developed software product |  | |
 
 
 
