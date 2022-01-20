@@ -161,11 +161,11 @@ The governance framework has highest priority, as without it no funds will be ra
 ## Overview
 Priority is an indication of how long software can be a viable product if that particular work item would be starved of resources. 
 
-| Work item | Annual Budget | Priority |
+| Work item | Priority | Budget required | Budget available | Funding source |
 |---|---|---|
-| 1. Governance (board work) | In-kind contribution | 1 |
-| 2. Ensuring maintained code and a minimum of continuous improvements| €20.000 | 2 |
-| 3. External security audits | € 25.000 | 2 |
+| 1. Governance (board work) | 1 | x | x | In-kind contribution |
+| 2. Ensuring maintained code and a minimum of continuous improvements| 2 | €20.000 | €20.000 | stakeholder funding contribution |
+| 3. External security audits | 2| €25.000 | €25.000| in-kind contribution |
 | 4. Capacity to fix security issues, especially after planned audits | €15.000 | 2 |
 | 5. A continuous minimum level of continued improvement | €50.000 | 2 | 
 | 6. An up-to-date automated testing infrastructure | €25.000 | 3 |
