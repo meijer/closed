@@ -162,19 +162,19 @@ The governance framework has highest priority, as without it no funds will be ra
 Priority is an indication of how long software can be a viable product if that particular work item would be starved of resources. 
 
 | Work item | Priority | Budget required | Budget available | Funding source |
-|---|---|---|
+|---|---|---|---|---|
 | 1. Governance (board work) | 1 | x | x | In-kind contribution |
-| 2. Ensuring maintained code and a minimum of continuous improvements| 2 | €20.000 | €20.000 | stakeholder funding contribution |
-| 3. External security audits | 2| €25.000 | €25.000| in-kind contribution |
-| 4. Capacity to fix security issues, especially after planned audits | €15.000 | 2 |
-| 5. A continuous minimum level of continued improvement | €50.000 | 2 | 
-| 6. An up-to-date automated testing infrastructure | €25.000 | 3 |
+| 2. Ensuring maintained code and a minimum of continuous improvements | 2 | €20.000 | €20.000 | stakeholder funding contribution |
+| 3. External security audits | 2 | €25.000 | €25.000 | in-kind contribution |
+| 4. Capacity to fix security issues, especially after planned audits | 2 | €15.000 | 2 ||
+| 5. A continuous minimum level of continued improvement | €50.000 | 2 ||| 
+| 6. An up-to-date automated testing infrastructure | €25.000 | 3 |||
 | 7. External crypto subsystem security audits | 3 | 
-| 8. Up-to-date documentation | € 10.000 | 4 |
-| 9. Up-to-date UI | € ?? | 5 |
-| 10. Community management | €10.000 | 6 |
-| 11. Public demonstrator | €?? What would it cost to run this? | 7 |
-| Total budget required to sustain FileSender as a good quality community developed software product |  | |
+| 8. Up-to-date documentation | 4 | € 10.000 | | |
+| 9. Up-to-date UI | 5 | € ?? |  | |
+| 10. Community management | €10.000 | 6 | ||
+| 11. Public demonstrator | €?? What would it cost to run this? | 7 | ||
+| Total budget required to sustain FileSender as a good quality community developed software product |  | | ||
 
 ## Budget plan
 How much we can look forward to receive as in-kind, how much money we need to collect, how much we can hope to count on from regular sponsors. This could also be in a separate document, but as first iteration it might be good to have it here, in your face.
