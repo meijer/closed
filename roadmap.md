@@ -161,19 +161,19 @@ The governance framework has highest priority, as without it no funds will be ra
 ## Overview
 Priority is an indication of how long software can be a viable product if that particular work item would be starved of resources. 
 
-| Work item | Priority | Budget required | Budget available | Funding source |
+| Work item | Priority | Budget required | Current status | Current source of funding |
 |---|---|---|---|---|
-| 1. Governance (board work) | 1 | x | x | In-kind contribution |
-| 2. Ensuring maintained code and a minimum of continuous improvements | 2 | €20.000 | €20.000 | stakeholder funding contribution |
-| 3. External security audits | 2 | €25.000 | €25.000 | in-kind contribution |
-| 4. Capacity to fix security issues, especially after planned audits | 2 | €15.000 | 2 ||
-| 5. A continuous minimum level of continued improvement | €50.000 | 2 ||| 
-| 6. An up-to-date automated testing infrastructure | €25.000 | 3 |||
-| 7. External crypto subsystem security audits | 3 | 
-| 8. Up-to-date documentation | 4 | € 10.000 | | |
+| 1. Governance (board work) | 1 | x | sufficient | In-kind contribution |
+| 2. Ensuring maintained code and a minimum of continuous improvements | 2 | €20.000 | sufficient | stakeholder funding |
+| 3. External security audits | 2 | €25.000 | sufficient | In-kind contribution |
+| 4. Capacity to fix security issues, especially after planned audits | 2 | €15.000 | sufficient | stakeholder funding|
+| 5. A continuous minimum level of continued improvement | €50.000 | 2 | insufficient | stakeholder funding | 
+| 6. An up-to-date automated testing infrastructure | 3 | €25.000 | insufficient | stakeholder funding |
+| 7. External crypto subsystem security audits | 3 | ? | insufficient | not executed | 
+| 8. Up-to-date documentation | 4 | € 10.000 | insufficient | limited to config doc |
 | 9. Up-to-date UI | 5 | € ?? |  | |
-| 10. Community management | €10.000 | 6 | ||
-| 11. Public demonstrator | €?? What would it cost to run this? | 7 | ||
+| 10. Community management | 6 | €10.000 | insufficient | not executed |
+| 11. Public demonstrator | 7 | €?? What would it cost to run this? | insufficient | not executed |
 | Total budget required to sustain FileSender as a good quality community developed software product |  | | ||
 
 ## Budget plan
@@ -188,7 +188,7 @@ AARNet: ...
 SURF: ...
 HEAnet: ...
 
-
+Remove list of sponsors, make that external to strategic roadmap
 
 ## Work item descriptions
 
