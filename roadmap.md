@@ -167,10 +167,10 @@ Priority is an indication of how long software can be a viable product if that p
 | 2. Ensuring maintained code and a minimum of continuous improvements | 2 | €20.000 | sufficient | stakeholder funding |
 | 3. External security audits | 2 | €25.000 | sufficient | In-kind contribution |
 | 4. Capacity to fix security issues, especially after planned audits | 2 | €15.000 | sufficient | stakeholder funding|
-| 5. A continuous minimum level of continued improvement | €50.000 | 2 | insufficient | stakeholder funding | 
+| 5. A continuous minimum level of continued improvement | 2 | €50.000 | insufficient | stakeholder funding | 
 | 6. An up-to-date automated testing infrastructure | 3 | €25.000 | insufficient | stakeholder funding |
 | 7. External crypto subsystem security audits | 3 | ? | insufficient | not executed | 
-| 8. Up-to-date documentation | 4 | € 10.000 | insufficient | limited to config doc |
+| 8. Up-to-date documentation | 4 | € 10.000 | insufficient | limited executed |
 | 9. Up-to-date UI | 5 | € ?? |  | |
 | 10. Community management | 6 | €10.000 | insufficient | not executed |
 | 11. Public demonstrator | 7 | €?? What would it cost to run this? | insufficient | not executed |
